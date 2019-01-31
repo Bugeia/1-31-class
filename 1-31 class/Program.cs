@@ -16,6 +16,7 @@ namespace _1_31_class
             catch
             {
                 Console.WriteLine("Press any key to continue.");
+                Console.ReadKey(true);
             }
         }
     }
